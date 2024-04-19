@@ -15,7 +15,7 @@ This bash script compiles some C++ files into an executable. Essentially just a 
 - `Compilation successful. Executable created: bin/main`
 - `$ ls`
 - `add.h  bin  compile.sh  main.cpp`
-- `cd bin`
+- `$ cd bin`
 - `main`
 - `$ ./main`
 - `The sum of 12 & 5 is 17`
