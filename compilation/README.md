@@ -20,3 +20,6 @@ This bash script compiles some C++ files into an executable. Essentially my take
 - `Enter an integer: 4`
 - `Enter another integer: 2`
 - `The sum of 4 and 2 is 6`
+
+### Further Work
+Might be good to see if we can add optimisation flags (e.g. `O2`), libraries (e.g. `lm`) and the `fopenmp` flag for multithreading scientific applications. 
