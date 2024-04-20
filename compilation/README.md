@@ -13,7 +13,7 @@ This bash script compiles some C++ files into an executable. Essentially my take
 - `Compilation successful. Executable created: bin/main`
 - `Source files can be found in: src`
 - `$ ls`
-- `add.h  bin  compile.sh  main.cpp`
+- `bin  compile.sh  src`
 - `$ cd bin`
 - `main`
 - `$ ./main`
