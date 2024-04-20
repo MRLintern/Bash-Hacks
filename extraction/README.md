@@ -1,6 +1,6 @@
 ## extraction
 
-Bash script which will extract files from a project. The project used here is [compilation](https://github.com/MRLintern/Bash-Hacks/tree/main/compilation.
+Bash script which will extract files from a project. The project used here is [compilation](https://github.com/MRLintern/Bash-Hacks/tree/main/compilation).
 The `.ZIP` folder contains:
 
 - `main.cpp`.
