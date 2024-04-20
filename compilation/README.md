@@ -10,11 +10,13 @@ This bash script compiles some C++ files into an executable. Essentially just a 
 ### Sample Run
 
 - `$ ./compile.sh`
-- `Compilation successful. Executable created: bin/main
-  `Source files can be found in: src`
+- `Compilation successful. Executable created: bin/main`
+- `Source files can be found in: src`
 - `$ ls`
 - `add.h  bin  compile.sh  main.cpp`
 - `$ cd bin`
 - `main`
 - `$ ./main`
-- `The sum of 12 & 5 is 17`
+- `Enter an integer: 4`
+- `Enter another integer: 2`
+- `The sum of 4 and 2 is 6`
