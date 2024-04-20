@@ -1,6 +1,6 @@
 ## compile
 
-This bash script compiles some C++ files into an executable. Essentially just a `Makefile`.
+This bash script compiles some C++ files into an executable. Essentially my take on a `Makefile`.
 
 ### How to run
 
