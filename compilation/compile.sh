@@ -13,13 +13,17 @@ OUTPUT_DIR="bin"
 SOURCE_DIR="src"
 
 
-# create directories for src and bin
+# are src & bin directories present? If not, create them
+
+# bin directory #
 
 if [ ! -d "OUTPUT_DIR" ]; then
 
 	mkdir -p "$OUTPUT_DIR"
 	
 fi
+
+# src directory #
 
 if [ ! -d "$SOURCE_DIR" ]; then
 
@@ -48,6 +52,8 @@ fi
 # compile source file into executable; add debugging flags and C++ ISO standard
 
 g++ -o "$OUTPUT_DIR/$OUTPUT" $SOURCE -Wall -Wextra -std=c++17
+
+# for moving source files into src directory
 
 mv *.cpp "$SOURCE_DIR/"
 mv *.h "$SOURCE_DIR/"
