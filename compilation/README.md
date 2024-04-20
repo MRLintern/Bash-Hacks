@@ -7,9 +7,7 @@ This bash script compiles some C++ files into an executable. Essentially just a 
 - `$ chmod +x compile.sh`
 - `$ ./compile.sh`
 
-### Sample Output
-
-- 
+### Sample Run
 
 - `$ ./compile.sh`
 - `Compilation successful. Executable created: bin/main`
