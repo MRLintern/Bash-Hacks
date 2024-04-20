@@ -1,14 +1,14 @@
 ## extraction
 
 Bash script which will extract files from a project. The project used here is [compilation](https://github.com/MRLintern/Bash-Hacks/tree/main/compilation).
-The `.ZIP` folder contains:
+The `ZIP` folder contains:
 
 - `main.cpp`.
 - `add.h`.
 
 The bash script is called: `extraction.sh`.
 
-Name of `.ZIP` file is: `FileExtraction.zip`.
+Name of `.zip` file is: `FileExtraction.zip`.
 
 The script will perform the extraction and compile the C++ source code to produce the executable. The source files will be placed in the `src` directory
 and the executable in the `bin` directory.
