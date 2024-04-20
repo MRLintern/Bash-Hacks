@@ -38,7 +38,7 @@ fi
 
 # compile the source file into an executable; add in debugging flags and C++ ISO standard
 
-g++ -o "$OUTPUT_DIR/$OUTPUT" $SOURCE
+g++ -o "$OUTPUT_DIR/$OUTPUT" $SOURCE -Wall -Wextra -std=c++17
 
 # check that compilation was successful
 
