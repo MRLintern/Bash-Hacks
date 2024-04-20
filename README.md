@@ -10,5 +10,5 @@ Bash Hacks is a repository of Bash scripts which perform all manner of tasks
  
 ### Hacks
 
-- `compilation`: Bash script to automate the process of compiling `C++` files. 
+- `compilation`: Bash script to automate the process of compiling `C++` files with some file management.
 
