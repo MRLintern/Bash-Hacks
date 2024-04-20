@@ -7,8 +7,8 @@ int main() {
 
 	// user provide 2 integers
 
-	int x;
-	int y;
+	int x{};
+	int y{};
 
 	std::cout<<"Enter an integer: "; std::cin>>x;
 	std::cout<<"\n";
