@@ -29,18 +29,18 @@ and the executable in the `bin` directory.
 
 ### Running the Application and Sample Output
 #### Part 1: extraction
-` $ ls`
-` extract.sh main.cpp add.h`
+- `$ ls`
+- `extract.sh main.cpp add.h`
   Create a `zip` file`.
-` $ zip FileExtract main.cpp add.h`
-` $ ls`
-` FileExtract.zip extract.sh`
-` $ ./extract.sh`
-` Enter the directory containing ZIP files:` `/path/to/your/files/and/extract.sh/script`
-` Archive:  FileExtraction.zip`
-`  inflating: FileExtraction/add.h`
-`  inflating: FileExtraction/main.cpp`
-` Extracted FileExtraction.zip to /path/to/your/files/and/extract.sh/script`
+- `$ zip FileExtract main.cpp add.h`
+- `$ ls`
+- `FileExtract.zip extract.sh`
+- `$ ./extract.sh`
+- `Enter the directory containing ZIP files:` `/path/to/your/files/and/extract.sh/script`
+- `Archive:  FileExtraction.zip`
+- `inflating: FileExtraction/add.h`
+- `inflating: FileExtraction/main.cpp`
+- `Extracted FileExtraction.zip to /path/to/your/files/and/extract.sh/script`
 
 
 
