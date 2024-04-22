@@ -20,7 +20,7 @@ and the executable in the `bin` directory.
 
 - `Ubuntu`. I've tested the script on `20.04`.
 - `unzip`.
-  If you don't have `unzip`
+  If you don't have `zip/unzip`
 
 - `$ sudo apt update`
 - `$ sudo apt install zip`
