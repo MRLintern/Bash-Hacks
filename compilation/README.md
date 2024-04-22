@@ -2,6 +2,11 @@
 
 This bash script compiles some C++ files into an executable. Essentially my take on a `Makefile`.
 
+### Requirements
+
+- `Ubuntu 20.04`.
+- `g++/gcc 13.1.0` compiler.
+
 ### How to run
 
 - `$ chmod +x compile.sh`
