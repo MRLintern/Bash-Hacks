@@ -8,8 +8,6 @@ The `ZIP` folder contains:
 
 The bash script is called: `extraction.sh`.
 
-Name of `.zip` file is: `FileExtraction.zip`.
-
 The script will perform the extraction and compile the C++ source code to produce the executable. The source files will be placed in the `src` directory
 and the executable in the `bin` directory.
 
@@ -21,8 +19,31 @@ and the executable in the `bin` directory.
 ### Requirenents
 
 - `Ubuntu`. I've tested the script on `20.04`.
+- `unzip`.
+  If you don't have `unzip`
+
+- `$ sudo apt update`
+- `$ sudo apt install zip`
+- Check you have successfully installed `zip/unzip`:
+- `$ zip --version`
 
 ### Running the Application and Sample Output
+#### Part 1: extraction
+` $ ls`
+` extract.sh main.cpp add.h`
+  Create a `zip` file`.
+` $ zip FileExtract main.cpp add.h`
+` $ ls`
+` FileExtract.zip extract.sh`
+` $ ./extract.sh`
+` Enter the directory containing ZIP files:` `/path/to/your/files/and/extract.sh/script`
+` Archive:  FileExtraction.zip`
+`  inflating: FileExtraction/add.h`
+`  inflating: FileExtraction/main.cpp`
+` Extracted FileExtraction.zip to /path/to/your/files/and/extract.sh/script`
+
+
+
 
 
 ### Further Development
