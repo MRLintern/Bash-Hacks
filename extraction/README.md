@@ -32,7 +32,7 @@ and the executable in the `bin` directory.
 #### Note
 Zipping files this way is a little over kill. I mean, you could just do the following:
 
- -`$ zip FileZip <file1> <file>` etc, and you end up with `FileZip.zip`.
+- `$ zip FileZip <file1> <file>` etc, and you end up with `FileZip.zip`.
 
 #### Part 1: extraction
 - `$ ls`
