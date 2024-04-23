@@ -3,7 +3,8 @@
 ### Introduction
 
 Bash Hacks is a repository of Bash scripts which perform all manner of tasks.
-Some of these can be done using traditional methods and languages (e.g. `Python`) and don't really need `Bash scripts`.
+Some of these tasks can be done using languages (e.g. `Python`, `Perl`etc) and don't really need `Bash scripts`
+Python can at times be easier to use (I hear).
 However, I love `Linux` and automation so here we are. 
 
 ### Requirements
