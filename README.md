@@ -8,7 +8,10 @@ However, I love `Linux` and automation so here we are.
 
 ### Requirements
 
+- The list of requiremenets will grown depending on the projects I develop.
+
 - `Ubuntu`. I use `20.04`.
+- `C++`. Required for the `compilation` project. 
  
 ### Hacks
 
