@@ -2,7 +2,9 @@
 
 ### Introduction
 
-Bash Hacks is a repository of Bash scripts which perform all manner of tasks
+Bash Hacks is a repository of Bash scripts which perform all manner of tasks.
+Some of these can be done using traditional methods and languages (e.g. `Python`) and don't really need `Bash scripts`.
+However, I love `Linux` and automation so here we are. 
 
 ### Requirements
 
