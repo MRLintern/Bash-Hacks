@@ -1,11 +1,14 @@
 ## compile
 
 This bash script compiles some C++ files into an executable. Essentially my take on a `Makefile`.
+I know I know, just make a `Makefile` and then run `make` at the command line, or you could use `CMake`, however
+I find that quite involved, but I guess its essential for deploying large software. I've found though that  my little `compile.sh` script
+does all of the required things that the previous `build systems` do. The downside of `compile.sh` is that it depends on `Ubuntu`.
 
 ### Requirements
 
-- `Ubuntu 20.04`.
-- `g++/gcc 13.1.0` compiler.
+-  Developed and tested on`Ubuntu 20.04`.
+- `g++/gcc 13.1.0` compiler for compiling the `C++ Source files`.
 
 ### How to run
 
