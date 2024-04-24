@@ -18,4 +18,5 @@ However, I love `Linux` and automation so here we are.
 
 - `compilation`: Bash script to automate the process of compiling `C++` files with some file management.
 - `extraction`: Bash script used to extract files from a `ZIP` folder. Second part of the project looks at automating the extraction and compiling the source code into an executable and moving files into appropriate directories.
+- `upper_to_lower_conversion`. A script which reads a text file with uppercase words/letters and converts it to a file of lowercase words/letters. 
 
