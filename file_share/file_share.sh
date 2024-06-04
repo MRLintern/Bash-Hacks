@@ -20,7 +20,7 @@ echo "$FILE_CONTENT" > "$FILE_NAME"
 PROJECT_PATHS=(
 
 
-	"/path/to/your/project"
+  "/path/to/your/project"
   "/path/to/your/project"
   "/path/to/your/project"
   "/path/to/your/project"
