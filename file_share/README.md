@@ -7,7 +7,7 @@ which would create `README.md` files and place them in specified project directo
 ### TODO
 
 This script is very basic and limited so the `README.md` files will only contain 
-a basic title. The TODO: develop the script which when executed, creates the project
+a basic title. The __TODO__: develop the script which when executed, creates the project
 directory, places a `README.md` file inside and creates `src` and `bin` folders for
 source and executable code respectively.
 
