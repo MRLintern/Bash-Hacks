@@ -12,7 +12,7 @@ However, I love `Linux` and automation so here we are.
 - The list of requiremenets will grow depending on the projects I develop.
 
 - `Ubuntu`. I use `20.04`.
-- `C++ compiler (e.g. g++/gcc 13.1.1)`. Required for the `compilation` project. 
+- `Compiler (e.g. g++/gcc 13.1.1)`. Required for the `compilation` project.`C/C++` based projects
  
 ### Hacks
 
